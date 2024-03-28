@@ -1,0 +1,45 @@
+Tipo,"Número de referência",Check-in,Checkout,"Nome do hóspede","Status da reserva",Moeda,"Status do pagamento",Valor,Comissão,"Taxa de pagamento",,Líquido,"Data de pagamento","ID do pagamento"
+Reserva,4114873670,"15 de mar. de 2024","17 de mar. de 2024","ferreira grazi",ok,BRL,by_booking,546.00,-87.04,0.00,,458.96,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4241828657,"25 de fev. de 2024","27 de fev. de 2024","Leticia Romano",ok,BRL,by_booking,576.00,-91.84,0.00,,484.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4183355535,"24 de fev. de 2024","26 de fev. de 2024","Santos Myke",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4225445223,"23 de fev. de 2024","25 de fev. de 2024","Kevin Del Papa De Carvalho",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4168502630,"23 de fev. de 2024","25 de fev. de 2024","Raquel Valadares",ok,BRL,by_booking,576.00,-91.84,0.00,,484.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4104926917,"23 de fev. de 2024","25 de fev. de 2024","Mayara Ap Freitas dos Santos",ok,BRL,by_booking,464.00,-73.92,0.00,,390.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4068044639,"23 de fev. de 2024","25 de fev. de 2024","Matheus Pino Apolinario",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4222898493,"19 de fev. de 2024","22 de fev. de 2024","Juliana Tokumori",ok,BRL,by_booking,714.00,-113.92,0.00,,600.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4218626687,"18 de fev. de 2024","21 de fev. de 2024","Erick Rocha",ok,BRL,by_booking,783.00,-124.96,0.00,,658.04,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4248843214,"11 de fev. de 2024","19 de fev. de 2024","MARISEL ALEJANDRA Gonzalez",ok,BRL,by_booking,3376.00,-539.84,0.00,,2836.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4230854731,"15 de fev. de 2024","19 de fev. de 2024","Elmar de Paiva Borges",ok,BRL,by_booking,952.00,-152.00,0.00,,800.00,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4183181751,"16 de fev. de 2024","19 de fev. de 2024","Giovanna Soares",ok,BRL,by_booking,696.00,-111.04,0.00,,584.96,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4278322884,"16 de fev. de 2024","18 de fev. de 2024","Beatriz Engel",cancelled,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4262166880,"16 de fev. de 2024","18 de fev. de 2024","Talita Fernanda Bona",ok,BRL,by_booking,616.00,-98.24,0.00,,517.76,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4247487542,"16 de fev. de 2024","18 de fev. de 2024","Sarah Beatriz Cardoso",ok,BRL,by_booking,676.00,-107.84,0.00,,568.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4237366724,"16 de fev. de 2024","18 de fev. de 2024","Bianca Bressan",ok,BRL,by_booking,464.00,-73.92,0.00,,390.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4233399962,"16 de fev. de 2024","18 de fev. de 2024","Anderson Domingues Costa",ok,BRL,by_booking,598.00,-95.36,0.00,,502.64,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4225123275,"16 de fev. de 2024","18 de fev. de 2024","CRISTINA A ZAGO DIAS PEREIRA",ok,BRL,by_booking,464.00,-73.92,0.00,,390.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4200545807,"16 de fev. de 2024","18 de fev. de 2024","Rodrigo Sebastião Rossi Leandro",ok,BRL,by_booking,886.00,-141.44,0.00,,744.56,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4091517012,"16 de fev. de 2024","18 de fev. de 2024","Thiago Almeida",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4072176873,"16 de fev. de 2024","18 de fev. de 2024","Gil Mota",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4055098518,"16 de fev. de 2024","18 de fev. de 2024","Thiago Borges",ok,BRL,by_booking,676.00,-107.84,0.00,,568.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4006205825,"10 de fev. de 2024","16 de fev. de 2024","Jenyffer Lopes",ok,BRL,by_booking,2688.00,-429.76,0.00,,2258.24,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4257618810,"9 de fev. de 2024","14 de fev. de 2024","Marcelo Santos",ok,BRL,by_booking,2270.00,-362.88,0.00,,1907.12,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4211074421,"9 de fev. de 2024","14 de fev. de 2024","Givaneide Almeida Teodosio",ok,BRL,by_booking,2685.00,-429.28,0.00,,2255.72,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4006024405,"9 de fev. de 2024","14 de fev. de 2024","marcio martins",ok,BRL,by_booking,2280.00,-364.48,0.00,,1915.52,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4097879322,"2 de fev. de 2024","9 de fev. de 2024","Carla Di Martino",ok,BRL,by_booking,1747.80,-279.33,0.00,,1468.47,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4263942480,"2 de fev. de 2024","7 de fev. de 2024","Jaqueline Teixeira",ok,BRL,by_booking,1190.00,-190.08,0.00,,999.92,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4266971726,"3 de fev. de 2024","6 de fev. de 2024","guilherme luschi",ok,BRL,by_booking,696.00,-111.04,0.00,,584.96,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4095468911,"3 de fev. de 2024","6 de fev. de 2024","Gabriel Camargo",ok,BRL,by_booking,714.00,-113.92,0.00,,600.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4290578486,"3 de fev. de 2024","5 de fev. de 2024","Danilo Santos",ok,BRL,by_booking,534.00,-85.12,0.00,,448.88,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4289366219,"3 de fev. de 2024","5 de fev. de 2024","Gonçalves Pires Lage Camila",ok,BRL,by_booking,604.00,-96.32,0.00,,507.68,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4264976581,"2 de fev. de 2024","5 de fev. de 2024","Hadassa Félix",ok,BRL,by_booking,714.00,-113.92,0.00,,600.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4068597175,"30 de jan. de 2024","5 de fev. de 2024","Vander de Carlos da Silva Simões Simões",ok,BRL,by_booking,1870.00,-298.88,0.00,,1571.12,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4044354321,"3 de fev. de 2024","5 de fev. de 2024","Bianca Claro",ok,BRL,by_booking,464.00,-73.92,0.00,,390.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4277742669,"1 de fev. de 2024","4 de fev. de 2024","Fernando Augusto Silva Sandim",ok,BRL,by_booking,975.00,-155.68,0.00,,819.32,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4273683948,"1 de fev. de 2024","4 de fev. de 2024","Amanda Gama",ok,BRL,by_booking,864.00,-137.92,0.00,,726.08,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4246542471,"1 de fev. de 2024","4 de fev. de 2024","Márcio William Castilho Lobo Lobo",cancelled,BRL,by_booking,819.00,-130.72,0.00,,688.28,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4218012559,"2 de fev. de 2024","4 de fev. de 2024","Liliane oliveira",ok,BRL,by_booking,676.00,-107.84,0.00,,568.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4171711421,"2 de fev. de 2024","4 de fev. de 2024","Daniele Almeida",ok,BRL,by_booking,634.00,-101.12,0.00,,532.88,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4068591964,"2 de fev. de 2024","4 de fev. de 2024","Liliane Martins",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4047479965,"2 de fev. de 2024","4 de fev. de 2024","Lígia Ribeiro",ok,BRL,by_booking,792.00,-126.40,0.00,,665.60,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4047444196,"2 de fev. de 2024","4 de fev. de 2024","Suzana Casemiro",ok,BRL,by_booking,476.00,-75.84,0.00,,400.16,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
+Reserva,4274218016,"27 de jan. de 2024","3 de fev. de 2024","Regilson Jesus",ok,BRL,by_booking,2721.00,-435.04,0.00,,2285.96,"1 de mar. de 2024",cYaQ3WLnTewuIrEE
