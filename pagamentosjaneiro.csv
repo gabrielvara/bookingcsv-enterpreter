@@ -1,0 +1,80 @@
+Tipo,"Número de referência",Check-in,Checkout,"Nome do hóspede","Status da reserva",Moeda,"Status do pagamento",Valor,Comissão,"Taxa de pagamento",,Líquido,"Data de pagamento","ID do pagamento"
+Reserva,4189376305,"28 de jan. de 2024","31 de jan. de 2024","Aurisio Oliveira",ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4108277652,"27 de jan. de 2024","31 de jan. de 2024","Martiniano Jessica",ok,BRL,by_booking,1604.00,-256.32,0.00,,1347.68,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4145205835,"27 de jan. de 2024","30 de jan. de 2024","Mario Almeida",ok,BRL,by_booking,1182.00,-188.80,0.00,,993.20,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4273223369,"26 de jan. de 2024","29 de jan. de 2024","Héber Augusto Tscherne",ok,BRL,by_booking,1008.00,-160.96,0.00,,847.04,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4259500269,"24 de jan. de 2024","29 de jan. de 2024","Angélica Raphael",ok,BRL,by_booking,1755.00,-280.48,0.00,,1474.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4252689276,"24 de jan. de 2024","29 de jan. de 2024","Kelly Bulgarelli Cunha",ok,BRL,by_booking,1705.00,-272.48,0.00,,1432.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4212519635,"27 de jan. de 2024","29 de jan. de 2024","Camila Davico",ok,BRL,by_booking,672.00,-107.20,0.00,,564.80,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4209957898,"26 de jan. de 2024","29 de jan. de 2024","Aildo Mendes",ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4088950440,"22 de jan. de 2024","29 de jan. de 2024","Talita Gomes Hussein",ok,BRL,by_booking,1965.60,-255.53,0.00,,1710.07,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4252711365,"25 de jan. de 2024","28 de jan. de 2024","Camila Povoa",ok,BRL,by_booking,1068.00,-170.56,0.00,,897.44,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4173817160,"25 de jan. de 2024","28 de jan. de 2024","Nathalie Ortiz",ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4087376557,"25 de jan. de 2024","28 de jan. de 2024","Thais Rocha",ok,BRL,by_booking,1053.00,-168.16,0.00,,884.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4286603319,"23 de jan. de 2024","27 de jan. de 2024","David Silveira",ok,BRL,by_booking,1204.00,-192.32,0.00,,1011.68,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4071672728,"24 de jan. de 2024","27 de jan. de 2024","Karla Campos",ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4281553426,"24 de jan. de 2024","26 de jan. de 2024","Lourdes De Souza Gomes",ok,BRL,by_booking,618.00,-98.56,0.00,,519.44,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4134410074,"23 de jan. de 2024","26 de jan. de 2024","William De Sousa Messias Gonçalves",ok,BRL,by_booking,1113.00,-177.76,0.00,,935.24,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4009078324,"23 de jan. de 2024","26 de jan. de 2024","DELMIRO VIEIRA DO NASCIMENTO JUNIOR",ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4137763200,"19 de jan. de 2024","25 de jan. de 2024","Pinardi Silmara",ok,BRL,by_booking,1444.80,-187.82,0.00,,1256.98,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4075967465,"21 de jan. de 2024","25 de jan. de 2024","Pinardi Silmara",ok,BRL,by_booking,1424.00,-227.52,0.00,,1196.48,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4059928459,"22 de jan. de 2024","25 de jan. de 2024","Cerveira Carlos",ok,BRL,by_booking,1173.00,-187.36,0.00,,985.64,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4134908761,"21 de jan. de 2024","24 de jan. de 2024","Fabrício Vicente",ok,BRL,by_booking,1354.50,-216.40,0.00,,1138.10,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4080107826,"19 de jan. de 2024","24 de jan. de 2024","Iara Silva Rodrigues",ok,BRL,by_booking,2530.00,-328.90,0.00,,2201.10,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4275944162,"16 de jan. de 2024","23 de jan. de 2024","Luiz Carlos Juarez",ok,BRL,by_booking,3160.50,-505.36,0.00,,2655.14,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4122561501,"19 de jan. de 2024","23 de jan. de 2024","Débora Hahn",ok,BRL,by_booking,1204.00,-192.32,0.00,,1011.68,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4109988561,"20 de jan. de 2024","23 de jan. de 2024","Juliano Moura",ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4028409440,"19 de jan. de 2024","23 de jan. de 2024","Paulo Pedroso de Almeida",ok,BRL,by_booking,963.20,-153.79,0.00,,809.41,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4252512113,"20 de jan. de 2024","22 de jan. de 2024","Paula Bertone",ok,BRL,by_booking,702.00,-112.00,0.00,,590.00,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4244852238,"16 de jan. de 2024","22 de jan. de 2024","serafim jorge nogueira",ok,BRL,by_booking,2346.00,-375.04,0.00,,1970.96,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4127317009,"20 de jan. de 2024","22 de jan. de 2024","Bruno Casari Rimoldi",ok,BRL,by_booking,602.00,-96.00,0.00,,506.00,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4080885902,"17 de jan. de 2024","22 de jan. de 2024","viviane caires caires",ok,BRL,by_booking,1505.00,-240.48,0.00,,1264.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4236534617,"18 de jan. de 2024","21 de jan. de 2024",,ok,BRL,by_booking,842.40,-134.46,0.00,,707.94,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4149872896,"17 de jan. de 2024","21 de jan. de 2024",,ok,BRL,by_booking,1424.00,-227.52,0.00,,1196.48,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4275004787,"18 de jan. de 2024","20 de jan. de 2024",,ok,BRL,by_booking,672.00,-107.20,0.00,,564.80,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4037873851,"16 de jan. de 2024","20 de jan. de 2024",,ok,BRL,by_booking,1564.00,-249.92,0.00,,1314.08,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4281851308,"14 de jan. de 2024","19 de jan. de 2024",,ok,BRL,by_booking,1505.00,-240.48,0.00,,1264.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4102039201,"15 de jan. de 2024","19 de jan. de 2024",,ok,BRL,by_booking,1604.00,-208.52,0.00,,1395.48,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4051578800,"16 de jan. de 2024","19 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4021632215,"16 de jan. de 2024","19 de jan. de 2024",,ok,BRL,by_booking,3279.00,-523.68,0.00,,2755.32,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4015101582,"15 de jan. de 2024","19 de jan. de 2024",,ok,BRL,by_booking,963.20,-125.22,0.00,,837.98,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4265103871,"15 de jan. de 2024","18 de jan. de 2024",,ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4013414288,"12 de jan. de 2024","18 de jan. de 2024",,ok,BRL,by_booking,2106.00,-336.64,0.00,,1769.36,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4167268609,"13 de jan. de 2024","17 de jan. de 2024",,ok,BRL,by_booking,1204.00,-192.32,0.00,,1011.68,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4169950781,"13 de jan. de 2024","16 de jan. de 2024",,ok,BRL,by_booking,842.40,-134.78,0.00,,707.62,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4158493058,"12 de jan. de 2024","16 de jan. de 2024",,ok,BRL,by_booking,2408.00,-384.96,0.00,,2023.04,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4259988558,"12 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,722.40,-115.26,0.00,,607.14,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4227464478,"12 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,818.40,-106.39,0.00,,712.01,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4206520258,"11 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,1806.00,-288.64,0.00,,1517.36,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4197841744,"12 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4117008941,"11 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,1204.00,-192.32,0.00,,1011.68,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4039489657,"10 de jan. de 2024","15 de jan. de 2024",,ok,BRL,by_booking,1505.00,-240.48,0.00,,1264.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4229718471,"8 de jan. de 2024","14 de jan. de 2024",,ok,BRL,by_booking,1806.00,-234.78,0.00,,1571.22,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4132486945,"9 de jan. de 2024","14 de jan. de 2024",,ok,BRL,by_booking,1780.00,-284.48,0.00,,1495.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4214354336,"8 de jan. de 2024","12 de jan. de 2024",,ok,BRL,by_booking,3849.60,-500.46,0.00,,3349.14,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4164133147,"7 de jan. de 2024","12 de jan. de 2024",,ok,BRL,by_booking,1505.00,-240.48,0.00,,1264.52,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4158700583,"8 de jan. de 2024","12 de jan. de 2024",,ok,BRL,by_booking,963.20,-125.22,0.00,,837.98,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4150892683,"7 de jan. de 2024","12 de jan. de 2024",,ok,BRL,by_booking,1404.00,-182.52,0.00,,1221.48,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4021622363,"9 de jan. de 2024","12 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4267369050,"8 de jan. de 2024","11 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4177745158,"4 de jan. de 2024","11 de jan. de 2024",,ok,BRL,by_booking,2765.60,-359.53,0.00,,2406.07,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4112107936,"7 de jan. de 2024","11 de jan. de 2024",,ok,BRL,by_booking,1824.00,-237.12,0.00,,1586.88,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4099461677,"8 de jan. de 2024","10 de jan. de 2024",,ok,BRL,by_booking,782.00,-124.80,0.00,,657.20,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4034508513,"7 de jan. de 2024","10 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4019155714,"8 de jan. de 2024","10 de jan. de 2024",,ok,BRL,by_booking,602.00,-96.00,0.00,,506.00,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4193834698,"4 de jan. de 2024","8 de jan. de 2024",,ok,BRL,by_booking,2084.00,-333.12,0.00,,1750.88,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4069764938,"5 de jan. de 2024","8 de jan. de 2024",,ok,BRL,by_booking,1303.00,-208.16,0.00,,1094.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4028003170,"5 de jan. de 2024","8 de jan. de 2024",,ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4019589895,"5 de jan. de 2024","8 de jan. de 2024",,ok,BRL,by_booking,1603.00,-256.16,0.00,,1346.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4280906445,"4 de jan. de 2024","7 de jan. de 2024",,ok,BRL,by_booking,1068.00,-170.56,0.00,,897.44,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4040024934,"4 de jan. de 2024","7 de jan. de 2024",,ok,BRL,by_booking,1053.00,-168.16,0.00,,884.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4234546921,"3 de jan. de 2024","6 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4280928129,"2 de jan. de 2024","5 de jan. de 2024",,ok,BRL,by_booking,903.00,-144.16,0.00,,758.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4229611005,"29 de dez. de 2023","5 de jan. de 2024",,ok,BRL,by_booking,4858.00,-631.54,0.00,,4226.46,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4126747925,"2 de jan. de 2024","5 de jan. de 2024",,ok,BRL,by_booking,1203.00,-192.16,0.00,,1010.84,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4115946078,"29 de dez. de 2023","5 de jan. de 2024",,ok,BRL,by_booking,6558.30,-852.58,0.00,,5705.72,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4099467284,"2 de jan. de 2024","4 de jan. de 2024",,ok,BRL,by_booking,602.00,-96.00,0.00,,506.00,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4266415897,"27 de dez. de 2023","3 de jan. de 2024",,ok,BRL,by_booking,4858.00,-631.54,0.00,,4226.46,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4114586181,"26 de dez. de 2023","2 de jan. de 2024",,ok,BRL,by_booking,3772.00,-490.36,0.00,,3281.64,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4088900054,"26 de dez. de 2023","2 de jan. de 2024",,ok,BRL,by_booking,3772.00,-490.36,0.00,,3281.64,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
+Reserva,4070870499,"26 de dez. de 2023","2 de jan. de 2024",,ok,BRL,by_booking,5415.00,-703.95,0.00,,4711.05,"1 de fev. de 2024",0p5fb0T5gLxjn8Wx
